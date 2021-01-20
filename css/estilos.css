@@ -10,15 +10,7 @@ body
 
 #cabecera
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: rgb(239, 255, 17);
-=======
-    background: rgb(23, 6, 173);
->>>>>>> colores
-=======
-    background: rgb(173, 6, 159);
->>>>>>> colores
+    background: rgb(194, 12, 211);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
